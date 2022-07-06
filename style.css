@@ -1,8 +1,24 @@
 body{
-    margin-left: 10%;
-    margin-right: 10%;
     font-family: 'Oswald', sans-serif;
 }
-.need-help{
+.need-help {
     text-align: center;
+    background-image: url(images/rever.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 20%;
+    margin-top: 10px;
 }
+ .blank {
+text-decoration: none;
+background-color:tomato;
+padding: 6px 15px;
+border-radius: 5px;
+color: white;
+  } 
+  .donate-today{
+    text-align: center;
+  }
+  h1{
+    font-size: 40px;
+  }
