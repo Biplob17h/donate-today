@@ -1,15 +1,16 @@
 body{
     font-family: 'Oswald', sans-serif;
+    background-color: aliceblue;
 }
 .need-help {
     text-align: center;
     background-image: url(images/rever.webp);
     background-repeat: no-repeat;
     background-position: center;
-    margin-bottom: 20%;
+    margin-bottom: 15%;
     margin-top: 10px;
 }
- .blank {
+ .link-button {
 text-decoration: none;
 background-color:tomato;
 padding: 6px 15px;
@@ -18,7 +19,30 @@ color: white;
   } 
   .donate-today{
     text-align: center;
+    margin-bottom: 50px;
   }
   h1{
     font-size: 40px;
   }
+  .donate-taka{
+display: flex;
+margin-left: 30%;
+margin-bottom: 30px;
+ }
+.trouble{
+  padding: 20px 20px;
+  font-size: 30px;
+
+}
+.futani{
+  color: rgb(209, 87, 87);
+  border: 2px solid rgb(209, 87, 87);
+  border-radius: 5px;
+}
+.amount{
+  text-align: center;
+}
+.link-button-two{
+text-decoration: none;
+
+}
