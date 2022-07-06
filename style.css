@@ -39,10 +39,18 @@ margin-bottom: 30px;
   border: 2px solid rgb(209, 87, 87);
   border-radius: 5px;
 }
-.amount{
-  text-align: center;
+#text{
+  margin-bottom: 15px;
 }
 .link-button-two{
 text-decoration: none;
+}
 
+.Education{
+  display: flex;
+  margin-left: 5%;
+}
+.food{
+  margin-right: 5%;
+  margin-left: 5%;
 }
