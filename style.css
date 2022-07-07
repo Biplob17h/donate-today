@@ -82,3 +82,11 @@ background-repeat: no-repeat;
 .donation-photo img{
   width: 80%;
 }
+.donation-image{
+  width: 50%;
+  background-repeat: no-repeat;
+}
+.donation-image img{
+  width: 100%;
+}
+
