@@ -48,9 +48,21 @@ text-decoration: none;
 
 .Education{
   display: flex;
-  margin-left: 5%;
+  margin-left: 10%;
 }
 .food{
   margin-right: 5%;
   margin-left: 5%;
+  width: 20%;
+  padding: 10px  10px;
+  border-radius: 5px;
+}
+.gray{
+  background-color: rgb(230, 223, 223);
+}
+.pink{
+  background-color: rgb(218, 166, 174);
+}
+.wood{
+  background-color: rgba(201, 201, 104, 0.76);
 }
