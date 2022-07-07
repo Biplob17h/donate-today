@@ -66,3 +66,21 @@ text-decoration: none;
 .wood{
   background-color: rgba(201, 201, 104, 0.76);
 }
+.head{
+  margin-top: 15%;
+}
+.poor-people{
+  display: flex;
+}
+.save-lives{
+  width: 50%;
+  margin-left: 10%;
+  margin-right: 10px;
+}
+.donation-photo{
+  width: 50%;
+background-repeat: no-repeat;
+}
+.donation-photo img{
+  width: 80%;
+}
