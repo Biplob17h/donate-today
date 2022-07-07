@@ -89,4 +89,21 @@ background-repeat: no-repeat;
 .donation-image img{
   width: 100%;
 }
+.updates{
+  text-align: center;
+  margin-top: 10%;
+}
+.email{
+margin-left: 30%;
+margin-right: 30%;
+padding: 40px 120px;
+background-color: rgb(219, 216, 166);
+}
+.last-button{
+  text-decoration: none;
+background-color:tomato;
+padding: 5px 7px;
+border-radius: 5px;
+color: white;
+}
 
