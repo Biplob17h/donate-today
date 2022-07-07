@@ -106,4 +106,16 @@ padding: 5px 7px;
 border-radius: 5px;
 color: white;
 }
-
+.footer{
+  margin-top: 10%;
+  text-align: center;
+  background-color: black;
+  height: 5%;
+}
+.humble{
+  color: brown;
+  font-family: 'Dancing Script', cursive;
+}
+.do-it{
+  color: wheat;
+}
